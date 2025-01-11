@@ -4,9 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#1d4ed8", // Blue
-        secondary: "#ef4444", // Red
-        dark: "#000000", // Black
+        primary: "#4f9be8", // Soft Blue
+        secondary: "#f0f8ff", // Light Blue background
+        dark: "#333333", // Dark gray text for contrast
+        light: "#f0f0f0", // Soft light gray for secondary elements
       },
     },
   },
